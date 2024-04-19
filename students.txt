@@ -1,0 +1,3 @@
+124,Nguyễn Văn B,19,nam,Hà Nội,8
+123,Nguyễn Văn A,18,nam,Hà Nội,9
+
